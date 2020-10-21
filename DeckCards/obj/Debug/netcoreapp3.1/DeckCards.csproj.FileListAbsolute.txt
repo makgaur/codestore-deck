@@ -1,0 +1,12 @@
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.exe
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.deps.json
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.runtimeconfig.json
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.runtimeconfig.dev.json
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.dll
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\bin\Debug\netcoreapp3.1\DeckCards.pdb
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.csprojAssemblyReference.cache
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.AssemblyInfoInputs.cache
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.AssemblyInfo.cs
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.dll
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.pdb
+C:\Users\Bitniti-IND-011\source\repos\DeckCards\DeckCards\obj\Debug\netcoreapp3.1\DeckCards.genruntimeconfig.cache
